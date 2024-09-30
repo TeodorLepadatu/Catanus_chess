@@ -5,7 +5,8 @@
 
 
 class Pawn:public Abstract_piece {
-
+public:
+    virtual std::vector<int> move();
 };
 
 

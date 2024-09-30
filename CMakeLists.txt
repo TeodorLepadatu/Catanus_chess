@@ -20,4 +20,7 @@ add_executable(Chess_with_catan
         Pawn.cpp
         Robber.cpp
         Rook.cpp
-        Player.h)
+        Player.h
+        Game.h
+        Game.cpp
+        Player.cpp)

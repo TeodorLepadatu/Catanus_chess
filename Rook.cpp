@@ -1,5 +1,7 @@
-//
-// Created by TEO on 9/30/2024.
-//
+
 
 #include "Rook.h"
+
+std::vector<int> Rook::move() {
+    return std::vector<int>();
+}

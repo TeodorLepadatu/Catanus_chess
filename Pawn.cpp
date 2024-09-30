@@ -1,5 +1,6 @@
-//
-// Created by TEO on 9/30/2024.
-//
 
 #include "Pawn.h"
+
+std::vector<int> Pawn::move() {
+    return std::vector<int>();
+}
