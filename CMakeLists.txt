@@ -7,4 +7,6 @@ include_directories(.)
 
 add_executable(Chess_with_catan
         main.cpp
-        README.md)
+        README.md
+        Board.cpp
+        Abstract_piece.h)
