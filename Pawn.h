@@ -1,12 +1,10 @@
-//
-// Created by TEO on 9/30/2024.
-//
-
+#include <iostream>
+#include "Abstract_piece.h"
 #ifndef CHESS_WITH_CATAN_PAWN_H
 #define CHESS_WITH_CATAN_PAWN_H
 
 
-class Pawn {
+class Pawn:public Abstract_piece {
 
 };
 

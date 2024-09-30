@@ -1,12 +1,10 @@
-//
-// Created by TEO on 9/30/2024.
-//
-
+#include <iostream>
+#include "Abstract_piece.h"
 #ifndef CHESS_WITH_CATAN_ROOK_H
 #define CHESS_WITH_CATAN_ROOK_H
 
 
-class Rook {
+class Rook:public Abstract_piece {
 
 };
 

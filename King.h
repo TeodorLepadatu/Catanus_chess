@@ -1,12 +1,10 @@
-//
-// Created by TEO on 9/30/2024.
-//
-
+#include <iostream>
+#include "Abstract_piece.h"
 #ifndef CHESS_WITH_CATAN_KING_H
 #define CHESS_WITH_CATAN_KING_H
 
 
-class King {
+class King:public Abstract_piece {
 
 };
 

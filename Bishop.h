@@ -1,12 +1,10 @@
-//
-// Created by TEO on 9/30/2024.
-//
-
+#include <iostream>
+#include "Abstract_piece.h"
 #ifndef CHESS_WITH_CATAN_BISHOP_H
 #define CHESS_WITH_CATAN_BISHOP_H
 
 
-class Bishop {
+class Bishop:public Abstract_piece {
 
 };
 

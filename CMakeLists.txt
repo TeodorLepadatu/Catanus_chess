@@ -9,4 +9,15 @@ add_executable(Chess_with_catan
         main.cpp
         README.md
         Board.cpp
-        Abstract_piece.h)
+        Abstract_piece.h
+        King.h
+        Abstract_piece.cpp
+        Bishop.cpp
+        Card.cpp
+        Dice.cpp
+        King.cpp
+        Knight.cpp
+        Pawn.cpp
+        Robber.cpp
+        Rook.cpp
+        Player.h)
